@@ -1,0 +1,37 @@
+1;Tari, Issa, Jihad;35;7;22
+2;Kheiria, Dina, Baraa;11;21;10
+3;Dana, Lara, Mayar;7;21;22
+4;Ameena, Amr, Bashar;7;22;35
+5;Saba, Safa, Mahmoud;1;2;22
+6;Mohammad, Abdallah;22;21;29
+7;Najla, Yara, Shayma;22;21;2
+8;Mohammad, Hussam, Mohammad;9;23;30
+9;Qutayba, Abd, Hammam;14;17;13
+10;Akram, Ahmad, Omar;30;23;37
+11;Nazeeh, Noor, Qamar;29;35;34
+12;Mohammad, Mariam, Omaima;15;14;9
+13;Aminah, Mean, Haleema;8;15;22
+14;Zahra, Tamara, Dalia;22;21;7
+15;Malak, Haneen, Jenan;15;14;37
+16;Jumanah, Nemah;2;7;7
+17;Laila, Samira, Abd;7;22;21
+18;Farah, Najat, Marah;21;10;22
+19;Hala, Sdeen, Jyana;30;14;15
+20;Duha, Leena, Raghad;29;34;35
+21;Haneen, Noor, Marah;1;2;21
+22;Amneh, Tareq, Mahmoud;17;15;8
+23;Issam, Mohammad, Ahmad;14;16;15
+24;Yazan, Aziz, Dana;23;24;38
+25;Abd, Muath, Suhaib;20;14;19
+26;Mohammad, Besan, Abd;22;21;29
+27;Sara, Israa, Raghad;14;20;15
+28;Moayad, Aseel, Yazan;22;29;11
+29;Huthaifa, Miqdaa, Mohammad;17;9;30
+30;Tareq, Mahmoud;23;24;30
+31;Tatyana, gorge, Abd;7;6;5
+32;Yara, Wafa, Sundos;7;29;10
+33;Kamel, Kareen, Sara;29;28;21
+34;Ahmad, Batool, Obada;19;20;1
+35;Raya, Deena, Ragahd;17;18;15
+36;Rana, Lama, Yaqeen;7;34;36
+
